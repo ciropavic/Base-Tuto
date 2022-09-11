@@ -1,0 +1,4 @@
+Trigger a inséré ligne 236 : TriggerServerEvent('esx_vehiclelock:registerkey', generatedPlate, 'no')
+
+Trigger a inséré ligne 385 : TriggerServerEvent('esx_vehiclelock:registerkey', vehicleProps.plate, GetPlayerServerId(closestPlayer))
+
